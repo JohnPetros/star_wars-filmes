@@ -12,7 +12,7 @@
 
 @font-face {
     font-family: 'Star-Wars';
-    src: url(./font/Starjedi.ttf);
+    src: url(../font/Starjedi.ttf);
 }
 
 * {
@@ -27,7 +27,7 @@ html, body {
 }
 
 body {
-    background-image: url(img/galaxy-stars.gif);
+    background-image: url(../img/galaxy-stars.gif);
     
     background-position: center center;
     background-size: cover;
